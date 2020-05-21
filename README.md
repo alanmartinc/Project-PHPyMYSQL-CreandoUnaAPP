@@ -1,2 +1,2 @@
 # Project-PHPyMYSQL-CreandoUnaAPP
-## PHP - Proyecto
+## PHP, MySQL - Proyecto
